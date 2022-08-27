@@ -25,9 +25,9 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        //home: LetterI()
+        home: LetterI()
         //home: LetterL()
-        home: LetterO()
+        //home: LetterO()
         // home: LetterV()
     );
   }
