@@ -21,7 +21,7 @@ class _LetterLState extends State<LetterL> {
         Expanded(child: Container(
           decoration: BoxDecoration(
             image: DecorationImage(
-              image: AssetImage("assets/back_ground.jpeg"),
+              image: AssetImage("assets/background_image/2.jpg"),
               fit: BoxFit.cover
             )
           ),

@@ -20,7 +20,7 @@ class _LetterOState extends State<LetterO> {
                 alignment: Alignment.center,
                 decoration: BoxDecoration(
                     image: DecorationImage(
-                        image: AssetImage("assets/back_ground.jpeg"),
+                        image: AssetImage("assets/background_image/7.jpg"),
                         fit: BoxFit.cover)),
                 child: DoubleCircularSlider(
                   200,
